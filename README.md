@@ -2,7 +2,7 @@
 - 👀 I’m interested in Power Bi Dashboard
 - 🌱 I’m currently learning Power Bi Dashboard
 - 💞️ I’m looking to collaborate on Power Bi Dashboard
-- 📫 How to reach me ...
+- 📫 reach me at mohanpb17@gmail.com
 
 <!---
 MPBi/MPBi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
